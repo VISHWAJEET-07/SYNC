@@ -1,3 +1,3 @@
-It is a Music Player that uses the basic concepts of HTML, CSS and good amount of JavaScript.
+It is a Music Player that uses the basic concepts of HTML, CSS and JavaScript.
 Do like if it helps in enhancing or upgrading your skills.
---> VISHWAJEET TYAGI <3
+--> Made with <3 by VISHWAJEET TYAGI. 
